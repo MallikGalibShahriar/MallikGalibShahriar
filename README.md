@@ -1,4 +1,4 @@
-![GH_MGS](https://user-images.githubusercontent.com/28247938/200950116-547829e6-9869-4b38-8cbd-6189f3a4db2c.png)
+![MGS](https://user-images.githubusercontent.com/28247938/200954623-841cb903-6a45-476c-81a4-ac1084bea3b2.png)
 
 <h1 align="center">This is Mallik Galib Shahriar</h1>
 <h3 align="center">A passionate full stack developer from somewhere on Earth</h3>
