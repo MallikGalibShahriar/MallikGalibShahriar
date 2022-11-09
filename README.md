@@ -1,6 +1,6 @@
 ![GH_MGS](https://user-images.githubusercontent.com/28247938/200950116-547829e6-9869-4b38-8cbd-6189f3a4db2c.png)
 
-<h1 align="center">Hi 👋, I'm Mallik Galib Shahriar</h1>
+<h1 align="center">This is Mallik Galib Shahriar</h1>
 <h3 align="center">A passionate full stack developer from somewhere on Earth</h3>
 
 <h3 align="left">Connect with me:</h3>
