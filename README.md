@@ -1,12 +1,12 @@
 ![MGS](https://user-images.githubusercontent.com/28247938/200954623-841cb903-6a45-476c-81a4-ac1084bea3b2.png)
 
 <h1 align="center">This is Mallik Galib Shahriar</h1>
-<h3 align="center">A passionate full stack developer and SQA Engineer from somewhere on Earth</h3>
+<h3 align="center">Ethical Hacker | Bug Hunter | Vulnerability Specialist | Penetration Tester | Software QA | Automation Engineer | A passionate Full Stack Developer</h3>
 
-- ❓ Do you need any help on Software Quality Assurance or Automation?  
+- ❓ Do you need any help on Software Quality Assurance or Automation? Or, need consultancy for your Web Application Security or Penetration Testing?  
   
 
-- ⚡ Fun fact: I never forget to put semicolons even on JS  🤣
+
   
 
 <br/>  
